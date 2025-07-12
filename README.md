@@ -1,6 +1,6 @@
 # Aplicación de Gestión de Celulares
 
-Esta aplicación es un ejemplo mínimo de un sistema para administrar celulares, ventas y reparaciones con **Django** para el backend y **React** para el frontend. Se utiliza **SQLite** como base de datos.
+Esta aplicación es un ejemplo basico de un sistema para administrar celulares, ventas y reparaciones con **Django** para el backend y **React** para el frontend. Se utiliza **SQLite** como base de datos.
 
 ## Funcionalidades
 
@@ -42,6 +42,3 @@ npm start
 
 3. Abrir el navegador en `http://localhost:3000` para acceder a la interfaz React.
 
-## Notas
-
-Este repositorio contiene únicamente el código base. Debido a las limitaciones del entorno, no se incluyen las dependencias instaladas ni se ejecutan las pruebas.
